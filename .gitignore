@@ -12,3 +12,4 @@ topologies/*.zip
 */.DS_Store
 */*/.DS_Store
 */*/*/.DS_Store
+log
